@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    width: 50%;
+    height: 30vh;
+    /* background-color:gray; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mydiv{
+    width: 200px;
+    height: 300px;
+    background-color: blanchedalmond;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+
